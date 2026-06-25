@@ -1,0 +1,6 @@
+{
+  "name": "PocketBank",
+  "description": "Sleek and secure digital banking front end dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
